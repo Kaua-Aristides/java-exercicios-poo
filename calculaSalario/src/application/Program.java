@@ -15,7 +15,7 @@ public class Program {
 		
 		System.out.println("Name:");
 		emp.name = sc.next();
-		System.out.println("Gloss Salary:");
+		System.out.println("Gross Salary:");
 		emp.grossSalary = sc.nextDouble();
 		System.out.println("Tax:");
 		emp.tax = sc.nextDouble();
