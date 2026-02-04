@@ -15,6 +15,7 @@
 # Build directories
 # -----------------------
 bin/
+*.class
 
 # -----------------------
 # Temporary files
